@@ -1,0 +1,7 @@
+This is my 
+very first 
+text document
+which i created 
+to perform 
+the program of 
+line editor
