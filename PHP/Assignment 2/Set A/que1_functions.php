@@ -24,7 +24,8 @@
             $key = $_POST["key"];
             if(array_key_exists($key, $my_arr))
             {
-                echo "Key found";
+                unset($my_arr[$key]);
+                print_r($my_arr);
             }
             else
             {
